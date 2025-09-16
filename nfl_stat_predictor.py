@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from datetime import datetime
-from sklearn.metrics import mean_absolute_error, mean_squared_error
 import joblib
 
 # Try LightGBM, fallback to RandomForest
